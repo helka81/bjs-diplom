@@ -72,6 +72,18 @@
         "EUR": 0,
         "NTC": 0
       }
+    },
+    {
+      "created_at": "2023-06-07T10:52:31.624Z",
+      "login": "hell_sun.net@inbox.ru",
+      "password": "pfcflf88",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
     }
   ],
   "favorites": {
